@@ -1,6 +1,6 @@
 Automat==0.6.0
 PyDispatcher==2.0.5
-Scrapy==1.4.0
+Scrapy==1.8.2
 ScrapyElasticSearch==0.9.1
 Twisted>=20.3.0
 argparse==1.2.1
